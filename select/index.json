@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "0.0000034（feat. 初音ミク）",
+  "base_artist": "むさぬりゆ",
+  "createdAt": "2025-12-31T05:20:34.720474Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0.0000034 (feat. 初音ミク)",
+      "artist": "むさぬりゆ",
+      "has_synced": false,
+      "path": "select/pl_01_0.0000034_(feat._初音ミク)_むさぬりゆ.txt"
+    }
+  ]
+}
